@@ -6,4 +6,6 @@
 !.vscode/extensions.json
 *.code-workspace
 # Local History for Visual Studio Code
-.history/
+.history/ 
+
+#https://github.com/motuma12/Javascript-basics.git
