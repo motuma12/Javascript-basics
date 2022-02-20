@@ -1,2 +1,1 @@
-console.log("welcome to java script")
-console.log("java script programming")
+console.log("how are you going to learn javascript")
